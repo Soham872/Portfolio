@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+h1 {
+    font-family: fantasy;
+    font-size: 35px;
+    color:red;
+}
+#Apps{
+ width:100%;
+    height:800px;
+    background-color:#2a7afa;
+}
+#games{
+    width:100%;
+        height:800px;
+    background-color:aquamarine;
+}
+#chatbot {
+    width:100%;
+    height:800px;
+    background-color:orangered;
+}
+img {
+    transition: transform .2s;
+}
+img:hover {
+transform:scale(0.9);
+}
+.line {
+    height:12px;
+    background-color:red;
+    width: 450px;
+    margin:10px auto;
+}
+#contacts {
+background-color: yellow;
+}
+.contacts h3{
+ color: red;
+}
+.contacts1 iframe {
+    width: 100%;
+}
